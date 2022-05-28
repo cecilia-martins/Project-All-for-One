@@ -1,2 +1,2 @@
-DESC products;
+-- DESC products;
 SELECT id FROM products;
