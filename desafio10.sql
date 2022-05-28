@@ -1,1 +1,1 @@
-SELECT * FROM purchase_orders;
+SELECT * FROM purchase_orders ORDER BY created_by >= 3;
