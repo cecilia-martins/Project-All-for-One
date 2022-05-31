@@ -1,2 +1,2 @@
 SELECT submitted_date FROM purchase_orders
-WHERE	DATE(submitted_date) = '2006-04-26';--onde a data seja igual a...
+WHERE	DATE(submitted_date) = '2006-04-26';
